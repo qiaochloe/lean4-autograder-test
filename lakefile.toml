@@ -13,7 +13,7 @@ rev = "a719ba5c3115d47b68bf0497a9dd1bcbb21ea663"
 
 [[require]]
 name = "autograder" 
-git = "https://github.com/robertylewis/lean4-autograder-main" 
+git = "https://github.com/qiaochloe/lean4-autograder-main" 
 rev = "7b389cac593fa1881f07916ff9818b208a958eef"
 
 
