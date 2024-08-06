@@ -61,7 +61,7 @@
    "inputRev": "main",
    "inherited": true,
    "configFile": "lakefile.toml"},
-  {"url": "https://github.com/leanprover-community/mathlib4",
+  {"url": "https://github.com/leanprover-community/mathlib4.git",
    "type": "git",
    "subDir": null,
    "scope": "",
@@ -81,5 +81,5 @@
    "inputRev": "7b389cac593fa1881f07916ff9818b208a958eef",
    "inherited": false,
    "configFile": "lakefile.lean"}],
- "name": "love",
+ "name": "LoVe",
  "lakeDir": ".lake"}
